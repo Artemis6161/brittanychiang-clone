@@ -1,0 +1,41 @@
+.right_footer img{
+width: 8vw;
+height: 8vw;
+    position:absolute;
+   right:0;
+   cursor: pointer;
+}
+.form{
+    /* background-image:url("../img/7gQj.gif");
+    background-size:100%;
+
+    background-repeat: repeat-y;
+    background-attachment: fixed; */
+    height:100%;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+  }
+  .form h2{
+    color: black;
+    padding: 1vw;
+  }
+  .form form {
+    display: flex;
+    flex-direction: column;
+    padding: 2vw;
+   
+  }
+  .form form input, textarea{
+  margin: 1vw;
+  padding: 1vw;
+  }
+.icon{
+  color: black;
+ position: absolute;
+ right: 0;
+ padding: 1vw 2vw;
+ cursor: pointer;
+}

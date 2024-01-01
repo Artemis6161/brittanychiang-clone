@@ -1,0 +1,49 @@
+.skill-container{
+    /* margin: 5rem; */
+   
+}
+.skill-header{
+  /* display: none; */
+  padding:2vw;
+  z-index: 1;
+}
+.skills{
+    display: flex;
+   justify-content: space-between;
+    flex-wrap: wrap;
+}  
+
+  
+
+   
+
+.skills ul li{
+   
+    padding: .5vw;
+    list-style: none;
+}
+
+.skills li{
+    color:var(--grey)
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: #fff;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .link-arrow p {
+padding:.5vw;
+    display: inline-block;
+    transition: 0.1s ease-in;
+  }
+  
+  .link-arrow:hover p {
+    transform: translateX(50%);
+  }
