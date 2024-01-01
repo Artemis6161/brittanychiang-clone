@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brittanychiang-clone/static/css/main.5f87e6e1.css",
+    "main.js": "/brittanychiang-clone/static/js/main.6886ce4a.js",
+    "static/js/787.ac38f859.chunk.js": "/brittanychiang-clone/static/js/787.ac38f859.chunk.js",
+    "static/media/Circles.gif": "/brittanychiang-clone/static/media/Circles.b75b9a29060f80ef3d13.gif",
+    "static/media/netflix.png": "/brittanychiang-clone/static/media/netflix.5d9a9359b919c8a1b5a6.png",
+    "static/media/gif.gif": "/brittanychiang-clone/static/media/gif.437bb00c67fef7c82cbe.gif",
+    "static/media/resume.pdf": "/brittanychiang-clone/static/media/resume.5ca53039415ce9ffd1ce.pdf",
+    "static/media/redux.png": "/brittanychiang-clone/static/media/redux.7e9a682c7d6411a05705.png",
+    "static/media/form.png": "/brittanychiang-clone/static/media/form.b6abf63efd325158f4fe.png",
+    "static/media/todo.png": "/brittanychiang-clone/static/media/todo.46e28f4ed6cc848b3d89.png",
+    "index.html": "/brittanychiang-clone/index.html",
+    "main.5f87e6e1.css.map": "/brittanychiang-clone/static/css/main.5f87e6e1.css.map",
+    "main.6886ce4a.js.map": "/brittanychiang-clone/static/js/main.6886ce4a.js.map",
+    "787.ac38f859.chunk.js.map": "/brittanychiang-clone/static/js/787.ac38f859.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f87e6e1.css",
+    "static/js/main.6886ce4a.js"
+  ]
+}
